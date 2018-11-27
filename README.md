@@ -1,4 +1,5 @@
-简介: 以ENG-wiki 为例，构建 bag of words 特征和 提取 bi-lstm embedding 作为节点特征的示例代码。
+简介: 以ENG-wiki 为例，构建 bag of words 特征和 提取 bi-lstm embedding 作为节点特征的示例代码。    
+
 作者: 卢宇航 
 
 ------
